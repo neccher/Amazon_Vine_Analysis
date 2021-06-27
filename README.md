@@ -29,4 +29,4 @@ unpaid_5stars_percentage = unpaid_5stars/unpaid_total
   - 5 Star Non-Vine Review Percentage: 52.8%
 
 ## Summary
-
+By the looks of it, there doesn't seem to be any positivity bias amongst the paid members.  However, this is only looking at ratings on the top end of the range.  I would suggest to look at the number of 1-star ratings for both paid and non-paid members and see if there is a statistically significant difference between the two.
